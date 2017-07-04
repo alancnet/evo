@@ -20,6 +20,7 @@
     "electron": "^1.6.10",
     "electron-debug": "^1.1.0",
     "lodash": "^4.17.4",
+    "memory-graph": "^1.0.1",
     "p2": "^0.7.1",
     "pixi.js": "^4.5.2"
   },
